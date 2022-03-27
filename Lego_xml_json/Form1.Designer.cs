@@ -106,7 +106,7 @@
             this.dataGV_1.RowTemplate.Height = 24;
             this.dataGV_1.Size = new System.Drawing.Size(789, 412);
             this.dataGV_1.TabIndex = 0;
-            this.dataGV_1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGV_1_CellContentClick);
+           
             // 
             // tabPage2
             // 

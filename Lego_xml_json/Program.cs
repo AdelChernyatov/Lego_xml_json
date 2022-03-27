@@ -16,10 +16,8 @@ namespace Lego_xml_json
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            
+            Application.SetCompatibleTextRenderingDefault(false);          
             LoadXML();
-
             
         }
       
@@ -43,9 +41,5 @@ namespace Lego_xml_json
             }
        }
     
-
-
-
-
     }
 }   

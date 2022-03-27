@@ -36,16 +36,7 @@ namespace Lego_xml_json
             dataGV3.Rows.Add(lego.Legocombos.LegocombosArray[0].HId, lego.Legocombos.LegocombosArray[0].HName, lego.Legocombos.LegocombosArray[0].PPrice, lego.Legocombos.LegocombosArray[0].PDetailCount, lego.Legocombos.LegocombosArray[0].PPeople.HeRo, lego.Legocombos.LegocombosArray[0].PPeople.ViLlain, lego.Legocombos.LegocombosArray[0].PPeople.SpEcialOfCombo, lego.Legocombos.LegocombosArray[0].PPeople.CoUntPeople);
             dataGV3.Rows.Add(lego.Legocombos.LegocombosArray[1].HId, lego.Legocombos.LegocombosArray[1].HName, lego.Legocombos.LegocombosArray[1].PPrice, lego.Legocombos.LegocombosArray[1].PDetailCount, lego.Legocombos.LegocombosArray[1].PPeople.HeRo, lego.Legocombos.LegocombosArray[1].PPeople.ViLlain, lego.Legocombos.LegocombosArray[1].PPeople.SpEcialOfCombo, lego.Legocombos.LegocombosArray[1].PPeople.CoUntPeople);
         }
-        private void btn1_Click(object sender, EventArgs e)
-        {
-            
-            
-        }
-
-        private void dataGV_1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
+        
     }
     
 }

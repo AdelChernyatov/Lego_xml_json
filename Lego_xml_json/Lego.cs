@@ -18,18 +18,7 @@ namespace Lego_xml_json
         [System.Xml.Serialization.XmlElement("legocombo")]
         public Legocombos Legocombos { get; set; }
 
-
-       /* public static Lego Deserialize()
-        {
-            string Path = @".\..\..\XML\Lego.xml";
-            XmlSerializer serializer = new XmlSerializer(typeof(Lego));
-            FileStream stream = new FileStream(Path, FileMode.Open);
-            return (Lego)serializer.Deserialize(stream);
-                
-        }*/
-
     }
-
     public class Characters
     {
         
