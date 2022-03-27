@@ -1,0 +1,66 @@
+<Lego>
+	<characters>
+		<person id ="1">
+			<name>Steve</name>
+			<surname>Jobson</surname>
+			<age>49</age>
+			<lego_features>
+				<production name="USA" detailCounts="10" profession="scientist"></production>	
+			</lego_features> 		
+		</person>
+		<person id ="2">
+			<name>Mike</name>
+			<surname>Manson</surname>
+			<age>35</age>
+			<lego_features>
+				<production name="USA" detailCounts="12" profession="doctor"></production>
+			</lego_features>
+		</person>
+	</characters>
+	<building>
+		<build id ="1">
+			<name>Hospiatal</name>
+			<date_of>1990</date_of>
+			<floors>10</floors>
+			<information>
+				<speaticialization>treat</speaticialization>
+				<capacity>500</capacity>
+				<color>white</color>
+			</information>
+		</build>
+		<build id ="2">
+			<name>Hotel</name>
+			<date_of>1970</date_of>
+			<floors>18</floors>
+			<information>
+				<speaticialization>rest</speaticialization>
+				<capacity>1000</capacity>
+				<color>blue</color>
+			</information>
+		</build>
+	</building>
+	<legocombo>
+		<combo id ="1">
+			<name>Starwars</name>
+			<price>30000</price>
+			<detailCount>5000</detailCount>
+			<people>
+				<hero>SkyWalker</hero>
+				<villain>DatrVeider</villain>
+				<specialOfCombo>spaceShip</specialOfCombo>
+				<countPeople>50</countPeople>
+			</people>
+		</combo>
+		<combo id ="2">
+			<name>Police</name>
+			<price>15000</price>
+			<detailCount>3000</detailCount>
+			<people>
+				<hero>policeMan</hero>
+				<villain>robber</villain>
+				<specialOfCombo>policeCar</specialOfCombo>
+				<countPeople>30</countPeople>
+			</people>
+		</combo>
+	</legocombo>
+</Lego>	
